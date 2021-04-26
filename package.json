@@ -1,0 +1,69 @@
+{
+  "name": "termux-whatsapp-bot",
+  "version": "0.0.2",
+  "description": "Only termux",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "NazwaS",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@kagchi/kag-api": "^1.5.5",
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.0",
+    "detect-file-type": "^0.2.8",
+    "discord-canvas": "^1.4.1",
+    "escape-string-regexp": "^4.0.0",
+    "extract-urls": "^1.3.2",
+    "fake-useragent": "^1.0.1",
+    "fb-video-downloader": "^1.0.3",
+    "figlet": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^9.1.0",
+    "get-urls": "^10.0.0",
+    "got": "^11.8.2",
+    "imgbb-uploader": "^1.3.0",
+    "lolcatjs": "^2.4.0",
+    "lolis.life": "^4.0.0",
+    "mime-types": "^2.1.30",
+    "moment-timezone": "^0.5.32",
+    "ms": "^2.1.3",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper": "^1.4.7",
+    "tinyurl": "^1.1.7",
+    "usetube": "^2.0.5",
+    "util": "^0.12.3",
+    "ytdl-core": "^4.5.0",
+    "ytsr": "^3.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazwaS/termux-whatsapp-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NazwaS/termux-whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/NazwaS/termux-whatsapp-bot#readme"
+}
