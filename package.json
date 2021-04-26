@@ -27,7 +27,7 @@
     "cfonts": "^2.9.0",
     "detect-file-type": "^0.2.8",
     "discord-canvas": "^1.4.1",
-    "escape-string-regexp": "^4.0.0",
+    "escape-string-regexp": "^5.0.0",
     "extract-urls": "^1.3.2",
     "fake-useragent": "^1.0.1",
     "fb-video-downloader": "^1.0.3",
